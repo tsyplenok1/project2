@@ -1,0 +1,260 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background-color: #E5E5E5;
+}
+
+.wrapper{
+    max-width: 1600px;
+    width: 100%;
+    margin: 0 auto;
+    border: black solid 1px;
+}
+.center{
+    margin-left: 177px;
+    margin-left: 182px;
+    width: 100%;
+    max-width: 1243px;
+}
+.logo {
+    margin-top: 35px;
+    float: left;
+    cursor: pointer;
+}
+.logo span{
+    font-family: 'Montserrat';
+    font-size: 40px;
+    font-weight: bold;
+    line-height: 39px;
+    color: #101010;
+}
+.burger{
+    float: right;
+    margin-top: 35px;
+    cursor: pointer;
+}
+h1{
+    clear: both;
+    padding-top: 240px;
+    font-family: 'Playfair Display';
+    max-width: 912px;
+    font-size: 101px;
+    font-weight: 400;
+    line-height: 98.7%;
+    color: #101010;
+    padding-bottom: 156px;
+}
+
+
+/* Section2*/ 
+
+.container2 img{
+    max-width: 100%;
+}
+
+/*Sectoin3*/
+
+.text_left{
+    width: 296px;
+    float: left;
+
+}
+
+.text_left hr{
+    width: 34px;
+    height: 1px;
+    background-color: #101010;
+    border: 0;
+    margin-top: 77px;
+    margin-bottom: 16px;
+}
+
+.text_left p{
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 153.7%;
+    columns: #101010;
+}
+
+.text_right{
+    float: right;
+    width: 820px;
+    margin-top: 66px;
+}
+
+.text_right p{
+    font-family: 'Playfair Display';
+    font-size: 40px;
+    line-height: 120.7%;
+    color: #101010;
+}
+
+.sub_title{
+    clear: both;
+    padding-top: 128px;
+    font-family: 'DM Sans';
+    font-size: 28px;
+    line-height: 153.7%;
+    font-weight: 700;
+    padding-bottom: 40px;
+    color: #101010;
+}
+
+.discription{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 153.7%;
+}
+
+/*Section 4*/
+
+.section4{
+    padding-top: 135px;
+}
+
+.card{
+    margin-bottom: 54px;
+}
+
+.card hr{
+    width: 34px;
+    height: 1px;
+    background-color: #101010;
+    margin-top: 31px;
+    border: 0;
+}
+
+.card p{
+    font-family: 'DM Sans';
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 153.7%;
+    width: 296px;
+}
+
+.side_left{
+    float: left;
+}
+
+.side_right{
+    float: right;
+}
+
+.card img{
+    width: 614px;
+    height: 379px;
+}
+
+
+/*Section 5*/
+
+
+footer{
+    clear: both;
+    background-color: #101010;
+    padding-top: 112px;
+    padding-bottom: 71px;
+}
+
+footer .footer_logo{
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 98.7%;
+    color: #F2F2F2;
+
+    float: left;
+    margin-right: 277px;
+    }
+
+footer .reserch_block p, footer .legal_block p, footer .services_block p{
+    font-size: 39px;
+    font-family: 'Playfair Display';
+    line-height: 198.7%;
+    color: #F2F2F2;
+}
+
+footer .reserch_block ul li a, footer .services_block ul li a, footer .legal_block ul li a{
+    font-family: 'DM Sans';
+    font-size: 21px;
+    line-height: 198.7%;
+    color: #F2F2F2;
+    text-decoration: none;
+}
+
+footer .reserch_block ul, footer .services_block ul, footer .legal_block ul{
+    list-style-type: none;
+}
+
+footer .reserch_block, footer .services_block{
+    float: left;
+    margin-top: -21px;
+    margin-right: 105px;
+}
+
+footer .legal_block, footer .reserch_block, footer .services_block{
+    margin-top: -21px;
+}
+
+footer .legal_block{
+    float: right;
+}
+
+
+
+footer .social_links{
+    clear: both;
+    padding-top: 219px;
+}
+
+footer .social_links .social_left a{
+    text-decoration: none;
+    color: #F2F2F2;
+    margin-right: 40px;
+    font-weight: 700;
+    font-family: 'DM Sans';
+    font-size: 24px;
+    line-height: 98.7%;
+    margin-right: 53px;
+}
+
+
+ footer .social_left{
+    float: left;
+}
+
+footer .social_right{
+    float: right;
+}
+
+footer .social_right a{
+    margin-left: 31px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
